@@ -1,0 +1,181 @@
+2025-08-09 18:44:26 - Starting...
+2025-08-09 18:44:26 - Kernel-mode driver simulation configured
+2025-08-09 18:44:26 - Stealth active
+2025-08-09 18:44:26 - Process created: PID 40188
+2025-08-09 18:44:26 - Monitoring started
+2025-08-09 18:44:26 - Initializing system integrity monitoring
+2025-08-09 18:44:26 - Verifying TPM 2.0 status
+2025-08-09 18:44:26 - Verifying secure boot status
+2025-08-09 18:44:26 - Scanning for vulnerable drivers
+2025-08-09 18:44:26 - Valorant detected (PID: 14804)
+2025-08-09 18:44:26 - Establishing secure communication channel
+2025-08-09 18:44:26 - Verifying game integrity
+2025-08-09 18:44:26 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:31 - Valorant detected (PID: 14804)
+2025-08-09 18:44:31 - Establishing secure communication channel
+2025-08-09 18:44:31 - Verifying game integrity
+2025-08-09 18:44:31 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:36 - Valorant detected (PID: 14804)
+2025-08-09 18:44:36 - Establishing secure communication channel
+2025-08-09 18:44:36 - Verifying game integrity
+2025-08-09 18:44:36 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:41 - Valorant detected (PID: 14804)
+2025-08-09 18:44:41 - Establishing secure communication channel
+2025-08-09 18:44:41 - Verifying game integrity
+2025-08-09 18:44:41 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:46 - Valorant detected (PID: 14804)
+2025-08-09 18:44:46 - Establishing secure communication channel
+2025-08-09 18:44:46 - Verifying game integrity
+2025-08-09 18:44:46 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:51 - Valorant detected (PID: 14804)
+2025-08-09 18:44:51 - Establishing secure communication channel
+2025-08-09 18:44:51 - Verifying game integrity
+2025-08-09 18:44:51 - Emulating responses to anti-cheat queries
+2025-08-09 18:44:56 - Valorant detected (PID: 14804)
+2025-08-09 18:44:56 - Establishing secure communication channel
+2025-08-09 18:44:56 - Verifying game integrity
+2025-08-09 18:44:56 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:01 - Valorant detected (PID: 14804)
+2025-08-09 18:45:01 - Establishing secure communication channel
+2025-08-09 18:45:01 - Verifying game integrity
+2025-08-09 18:45:01 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:06 - Suspicious process detected: injector(1).exe
+2025-08-09 18:45:06 - Valorant detected (PID: 14804)
+2025-08-09 18:45:06 - Establishing secure communication channel
+2025-08-09 18:45:06 - Verifying game integrity
+2025-08-09 18:45:06 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:11 - Suspicious process detected: injector(1).exe
+2025-08-09 18:45:11 - Valorant detected (PID: 14804)
+2025-08-09 18:45:11 - Establishing secure communication channel
+2025-08-09 18:45:11 - Verifying game integrity
+2025-08-09 18:45:11 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:16 - Suspicious process detected: injector(1).exe
+2025-08-09 18:45:16 - Valorant detected (PID: 14804)
+2025-08-09 18:45:16 - Establishing secure communication channel
+2025-08-09 18:45:16 - Verifying game integrity
+2025-08-09 18:45:16 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:21 - Suspicious process detected: injector(1).exe
+2025-08-09 18:45:21 - Valorant detected (PID: 14804)
+2025-08-09 18:45:21 - Establishing secure communication channel
+2025-08-09 18:45:21 - Verifying game integrity
+2025-08-09 18:45:21 - Emulating responses to anti-cheat queries
+2025-08-09 18:45:26 - Waiting for Valorant...
+2025-08-09 18:45:31 - Waiting for Valorant...
+2025-08-09 18:45:36 - Waiting for Valorant...
+2025-08-09 18:45:41 - Waiting for Valorant...
+2025-08-09 18:45:46 - Waiting for Valorant...
+2025-08-09 18:45:51 - Performing periodic system integrity check
+2025-08-09 18:45:56 - Waiting for Valorant...
+2025-08-09 18:46:01 - Valorant detected (PID: 35008)
+2025-08-09 18:46:01 - Establishing secure communication channel
+2025-08-09 18:46:01 - Verifying game integrity
+2025-08-09 18:46:01 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:06 - Valorant detected (PID: 35008)
+2025-08-09 18:46:06 - Establishing secure communication channel
+2025-08-09 18:46:06 - Verifying game integrity
+2025-08-09 18:46:06 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:11 - Valorant detected (PID: 35008)
+2025-08-09 18:46:11 - Establishing secure communication channel
+2025-08-09 18:46:11 - Verifying game integrity
+2025-08-09 18:46:11 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:16 - Valorant detected (PID: 35008)
+2025-08-09 18:46:16 - Establishing secure communication channel
+2025-08-09 18:46:16 - Verifying game integrity
+2025-08-09 18:46:16 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:21 - Valorant detected (PID: 35008)
+2025-08-09 18:46:21 - Establishing secure communication channel
+2025-08-09 18:46:21 - Verifying game integrity
+2025-08-09 18:46:21 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:26 - Valorant detected (PID: 35008)
+2025-08-09 18:46:26 - Establishing secure communication channel
+2025-08-09 18:46:26 - Verifying game integrity
+2025-08-09 18:46:26 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:31 - Valorant detected (PID: 35008)
+2025-08-09 18:46:31 - Establishing secure communication channel
+2025-08-09 18:46:31 - Verifying game integrity
+2025-08-09 18:46:31 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:36 - Valorant detected (PID: 35008)
+2025-08-09 18:46:36 - Establishing secure communication channel
+2025-08-09 18:46:36 - Verifying game integrity
+2025-08-09 18:46:36 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:41 - Valorant detected (PID: 35008)
+2025-08-09 18:46:41 - Establishing secure communication channel
+2025-08-09 18:46:41 - Verifying game integrity
+2025-08-09 18:46:41 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:46 - Valorant detected (PID: 35008)
+2025-08-09 18:46:46 - Establishing secure communication channel
+2025-08-09 18:46:46 - Verifying game integrity
+2025-08-09 18:46:46 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:51 - Valorant detected (PID: 35008)
+2025-08-09 18:46:51 - Establishing secure communication channel
+2025-08-09 18:46:51 - Verifying game integrity
+2025-08-09 18:46:51 - Emulating responses to anti-cheat queries
+2025-08-09 18:46:56 - Valorant detected (PID: 35008)
+2025-08-09 18:46:56 - Establishing secure communication channel
+2025-08-09 18:46:56 - Verifying game integrity
+2025-08-09 18:46:56 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:01 - Valorant detected (PID: 35008)
+2025-08-09 18:47:01 - Establishing secure communication channel
+2025-08-09 18:47:01 - Verifying game integrity
+2025-08-09 18:47:01 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:06 - Valorant detected (PID: 35008)
+2025-08-09 18:47:06 - Establishing secure communication channel
+2025-08-09 18:47:06 - Verifying game integrity
+2025-08-09 18:47:06 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:11 - Valorant detected (PID: 35008)
+2025-08-09 18:47:11 - Establishing secure communication channel
+2025-08-09 18:47:11 - Verifying game integrity
+2025-08-09 18:47:11 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:16 - Valorant detected (PID: 35008)
+2025-08-09 18:47:16 - Establishing secure communication channel
+2025-08-09 18:47:16 - Verifying game integrity
+2025-08-09 18:47:16 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:21 - Valorant detected (PID: 35008)
+2025-08-09 18:47:21 - Establishing secure communication channel
+2025-08-09 18:47:21 - Verifying game integrity
+2025-08-09 18:47:21 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:26 - Valorant detected (PID: 35008)
+2025-08-09 18:47:26 - Establishing secure communication channel
+2025-08-09 18:47:26 - Verifying game integrity
+2025-08-09 18:47:26 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:31 - Valorant detected (PID: 35008)
+2025-08-09 18:47:31 - Establishing secure communication channel
+2025-08-09 18:47:31 - Verifying game integrity
+2025-08-09 18:47:31 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:36 - Valorant detected (PID: 35008)
+2025-08-09 18:47:36 - Establishing secure communication channel
+2025-08-09 18:47:36 - Verifying game integrity
+2025-08-09 18:47:36 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:41 - Valorant detected (PID: 35008)
+2025-08-09 18:47:41 - Establishing secure communication channel
+2025-08-09 18:47:41 - Verifying game integrity
+2025-08-09 18:47:41 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:46 - Valorant detected (PID: 35008)
+2025-08-09 18:47:46 - Establishing secure communication channel
+2025-08-09 18:47:46 - Verifying game integrity
+2025-08-09 18:47:46 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:51 - Valorant detected (PID: 35008)
+2025-08-09 18:47:51 - Establishing secure communication channel
+2025-08-09 18:47:51 - Verifying game integrity
+2025-08-09 18:47:51 - Emulating responses to anti-cheat queries
+2025-08-09 18:47:56 - Valorant detected (PID: 35008)
+2025-08-09 18:47:56 - Establishing secure communication channel
+2025-08-09 18:47:56 - Verifying game integrity
+2025-08-09 18:47:56 - Emulating responses to anti-cheat queries
+2025-08-09 18:48:01 - Valorant detected (PID: 35008)
+2025-08-09 18:48:01 - Establishing secure communication channel
+2025-08-09 18:48:01 - Verifying game integrity
+2025-08-09 18:48:01 - Emulating responses to anti-cheat queries
+2025-08-09 18:48:06 - Valorant detected (PID: 35008)
+2025-08-09 18:48:06 - Establishing secure communication channel
+2025-08-09 18:48:06 - Verifying game integrity
+2025-08-09 18:48:06 - Emulating responses to anti-cheat queries
+2025-08-09 18:48:11 - Valorant detected (PID: 35008)
+2025-08-09 18:48:11 - Establishing secure communication channel
+2025-08-09 18:48:11 - Verifying game integrity
+2025-08-09 18:48:11 - Emulating responses to anti-cheat queries
+2025-08-09 18:48:16 - Valorant detected (PID: 35008)
+2025-08-09 18:48:16 - Establishing secure communication channel
+2025-08-09 18:48:16 - Verifying game integrity
+2025-08-09 18:48:16 - Emulating responses to anti-cheat queries
+2025-08-09 18:48:21 - Waiting for Valorant...
