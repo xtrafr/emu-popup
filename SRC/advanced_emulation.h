@@ -2,6 +2,7 @@
 
 #include <Windows.h>
 #include <string>
+#include <atomic>
 #include "logging.h"
 #include "memory_protection.h"
 
