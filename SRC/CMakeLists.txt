@@ -42,20 +42,7 @@ if(WIN32)
 
     install(TARGETS vgc_emulator DESTINATION bin)
 
-    # Popup bypass tool (Windows only)
-    add_executable(popup_bypass "POPUP Bypass V1.0.cpp")
-    target_compile_definitions(popup_bypass PRIVATE _WIN32_WINNT=0x0601)
-    target_link_libraries(popup_bypass PRIVATE
-        Psapi
-        User32
-        Advapi32
-        Crypt32
-        Iphlpapi
-        Shell32
-        Shlwapi
-        Winhttp
-    )
-    set_target_properties(popup_bypass PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
+
 else()
     message(STATUS "Non-Windows host detected. Building portable stubs.")
     add_executable(vgc_emulator portable_stub.cpp)
